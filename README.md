@@ -2,12 +2,6 @@
 
 ## Prompt Engineering on Real-World Scenarios
 
-**Name:** Samson Jebaraj P.\
-**Assignment:** 2\
-**Topic:** Prompt Engineering on Real-World Scenarios
-
----
-
 # SECTION 1: AMBIGUITY + INCOMPLETE CONTEXT
 
 ## Q1. Consulting Case – Messy Client Problem
